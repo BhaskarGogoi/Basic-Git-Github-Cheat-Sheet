@@ -8,7 +8,7 @@ Basic information of publishing a project to github using git cli.
 
 ## Author
 
- [@Bhaskarjyoti Gogoi](https://www.github.com/BhaskarGogoi)
+ [@Bhaskarjyoti Gogoi](https://www.instagram.com/thebhaskargogoi/)
 
   
 ## Documentation
